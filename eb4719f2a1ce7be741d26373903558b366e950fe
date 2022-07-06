@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c82d68ef_c34f85c2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000085
+      },
+      "writtenOn": "2022-07-06T13:00:59Z",
+      "side": 1,
+      "message": "Original Pixys\u0027s Logo: https://raw.githubusercontent.com/PixysOS/packages_apps_Settings/twelve/res/layout/pixys_logo.xml\nRecovery/Fastbootd fonts: Open Sans\nColor based on Pixys\u0027s color: #4285F4 (blue) and #FFFFFF (white)",
+      "revId": "eb4719f2a1ce7be741d26373903558b366e950fe",
+      "serverId": "dc9c43de-f401-424a-9bd3-945633c9f028"
+    }
+  ]
+}
